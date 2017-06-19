@@ -1,6 +1,6 @@
 package com.example.sydney.jollymarkdemo;
 
-/** 热敏打印机机  演示程序
+/** Thermal printer machine demonstration program
  * @author YLiang
  * @date 2014 09 17
  * @amend 2015 04 10
